@@ -17,6 +17,11 @@ body {
 span{
 	display:none
 }
+.btn_nxt{
+	position: absolute;
+    right: 10px;
+    bottom: 10px;
+}
 .final_body {
   margin: 0;
   background: #020202;
