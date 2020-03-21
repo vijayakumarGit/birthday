@@ -1502,6 +1502,8 @@ p.signed {
 
 #card.open-fully #card-front .wrap {
     background-color: rgba(0, 0, 0, 0);
+	background-image: url("swa.jpeg");
+	    background-size: cover;
 }
 
 #card.open-fully #card-front .wrap *,
